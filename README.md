@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maximilian Tauber
 - 👀 interested in alghorithms, webdesign and SaaS
-- 🌱 currently learning Angular
+- 🌱 currently building
 - 📫 How to reach me: 
   - IG: @max.tber 
   - Phone: +39 320 575 4020
